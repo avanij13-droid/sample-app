@@ -1,3 +1,5 @@
+# this needs to be in a different repo like this:
+# morrisseycode-ps/shared-workflows/.github/workflows/reusable-deploy-shared-repo.yml@main
 name: Reusable Workflow to Deploy .NET App
 
 on:
